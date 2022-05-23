@@ -752,7 +752,7 @@ NOTE: This may appear to mask
 (string/join ...)
 ----
 
-Below, are some common idiomatic aliases:
+Some common, idiomatic aliases are shown below:
 
 |===
 | Namespace | Idiomatic Alias
